@@ -4,7 +4,7 @@ const blockListBaseFolder = `./base/`;
 
 fs.readdirSync(blockListBaseFolder).forEach(file => {
     const filePathInput = `${blockListBaseFolder}${file}`;
-    const filePathOutput = `./${file}`;
+    const filePathOutput = `./block-lists/${file}`;
     generateBlockList(filePathInput, filePathOutput);
 });
 
