@@ -1,0 +1,24 @@
+{
+  "dependencies": {
+    "nodemon": "^3.1.4"
+  },
+  "name": "pihole-lists",
+  "version": "1.0.0",
+  "description": "Pi Hole Lists",
+  "main": "app.js",
+  "devDependencies": {},
+  "scripts": {
+    "start": "node ./node_modules/nodemon/bin/nodemon.js app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lucascmullin/pihole-lists.git"
+  },
+  "author": "Lucas C Mullin",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/lucascmullin/pihole-lists/issues"
+  },
+  "homepage": "https://github.com/lucascmullin/pihole-lists#readme"
+}
