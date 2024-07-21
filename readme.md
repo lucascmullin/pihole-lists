@@ -11,13 +11,15 @@ Project with blocklists for Pi Hole and a domain generator from a base name, exa
 **Home urls:** www, pt\
 **End urls:** com, com.br
 
-**Results:**\
-test.com\
-test.com.br\
-www.test.com\
-www.test.com.br\
-pt.test.com\
+**Results:**
+```txt
+test.com
+test.com.br
+www.test.com
+www.test.com.br
+pt.test.com
 pt.test.com.br
+```
 
 
 ## Blick lists
