@@ -740,7 +740,7 @@ i1.services.social.microsoft.com
 i1.services.social.microsoft.com.nsatc.net
 ieonlinews.microsoft.com
 ieonlinews.trafficmanager.net
-img-prod-cms-rt-microsoft-com
+img-prod-cms-rt-microsoft.com
 img-s-msn-com.akamaized.net
 in.treasuredata.com
 incoming.telemetry.mozilla.org
@@ -3534,7 +3534,7 @@ tagdatax.com
 tagmngrs.com
 tagsrvcs.com
 tagstaticx.com
-tagtray.com/api
+tagtray.com
 tamgrt.com
 tapad.app
 tapad.com
@@ -3975,7 +3975,8 @@ accengage.net
 actirinius.com
 aimtell.com
 alertme.news
-amazonaws.com/cdn.aimtell.com/
+amazonaws.com
+cdn.aimtell.com
 aswpsdkeu.com
 aswpsdkus.com
 bildirt.com
